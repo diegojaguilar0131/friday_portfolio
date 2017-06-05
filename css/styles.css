@@ -1,0 +1,33 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+}
+p.first {
+  font-size: 14px;
+}
+p.second {
+  font-size: 40px
+}
+body {
+  background-image: url("../img/greywallpaper.jpg");
+}
+strong {
+  font-size: 50px;
+  font-style: italic;
+}
+div {
+  background-color: white;
+  font-size: 30px;
+}
+a {
+  font-size: 20px
+}
+.container img {
+    width: 50%;
+    height: auto;
+    float: left;
+    background-image: url("../img/grey2.jpg");
+}
